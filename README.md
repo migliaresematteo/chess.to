@@ -1,4 +1,4 @@
-###To do  
+###To do###  
 -gestire giocatori  
 -gestire turni  
 -gestire punteggi  
